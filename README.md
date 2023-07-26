@@ -1,2 +1,2 @@
-# Rock_Saper_Scissors
+# Rock_Paper_Scissors
 The Odin project
